@@ -1,6 +1,6 @@
 # MS---Excel-Capstone-project
 
-**Description:**
+## Description:
 As a Growth and Strategy Analyst for an e-commerce company, I conducted a comprehensive funnel analysis to generate performance insights for the year 2019. The analysis was based on the 'Funnel Case Study Data' workbook, which included session details, channel-wise traffic, and supporting data.
 **Key Tasks and Insights:**
 
@@ -32,11 +32,11 @@ Funnel Conversion Metrics
 Comparative Analysis (Week-over-Week)
 Hypothesis Testing and Validation
 
-**Project_File:**
+## Project_File:
 [Project_File](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/239d4aaf6c887a33611717223d27412842ff62e7/Calculations.xlsx)
 
-**Report_Document:**
+## Report_Document:
 [Report_Doc](https://github.com/Karthi5551212/Data_Analysis_Projects/blob/aebd4cb45456e4ab9fc7b78ee3fce8f7ed9eab2b/Capstone_Project_Report.docx)
 
-**Results and Impact:**
+## Results and Impact:
 The project provided actionable insights into order trends, traffic sources, and conversion rates. It helped identify key areas for strategic improvement and informed data-driven decision-making to enhance platform performance.
