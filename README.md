@@ -1,4 +1,6 @@
-# MS---Excel-Capstone-project
+# MS Excel
+
+This Repository contains capstone project which I did in Microsoft Excel
 
 ## Description:
 As a Growth and Strategy Analyst for an e-commerce company, I conducted a comprehensive funnel analysis to generate performance insights for the year 2019. The analysis was based on the 'Funnel Case Study Data' workbook, which included session details, channel-wise traffic, and supporting data.
